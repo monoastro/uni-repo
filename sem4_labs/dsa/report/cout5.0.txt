@@ -1,0 +1,42 @@
+OUTPUT:
+Initial towers:
+A: 3 2 1 
+B: 
+C: 
+Move disk 1 from A to C
+A: 3 2 
+B: 
+C: 1 
+Move disk 2 from A to B
+A: 3 
+B: 2 
+C: 1 
+Move disk 1 from C to B
+A: 3 
+B: 2 1 
+C: 
+Move disk 3 from A to C
+A: 
+B: 2 1 
+C: 3 
+Move disk 1 from B to A
+A: 1 
+B: 2 
+C: 3 
+Move disk 2 from B to C
+A: 1 
+B: 
+C: 3 2 
+Move disk 1 from A to C
+A: 
+B: 
+C: 3 2 1 
+
+The fibonacci numbers are:
+0
+1
+1
+2
+3
+
+The factorial of 5 is 120.

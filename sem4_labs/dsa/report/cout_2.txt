@@ -1,0 +1,188 @@
+OUTPUT
+
+Linear Queue Operations ; Size 5
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+0
+
+Enter element to enqueue
+100
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+0
+
+Enter element to enqueue
+200
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+0
+
+Enter element to enqueue
+300
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+0
+
+Enter element to enqueue
+400
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+0
+
+Enter element to enqueue
+500
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+2
+The elements of the linearQ are:
+100
+200
+300
+400
+500
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+3
+The total number of elements of the linearQ is 5
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+1
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+2
+The elements of the linearQ are:
+200
+300
+400
+500
+
+Circular Queue Operations ; Size 3
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+0
+
+Enter element to enqueue
+3.14159
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+0
+
+Enter element to enqueue
+299792458
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+0
+
+Enter element to enqueue
+6671011
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+0
+
+Enter element to enqueue
+1
+circularQ is full
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+2
+The elements of the circularQ are:
+3.14159
+2.99792e+08
+6.67101e+06
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+3
+The total number of elements of the circularQ is 3
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+1
+
+Display Menu
+(0) to enqueue,
+(1) to dequeue,
+(2) to display,
+(3) to show total number of elements,
+(4) to exit the program
+2
+The elements of the circularQ are:
+2.99792e+08
+6.67101e+06

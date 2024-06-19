@@ -1,0 +1,25 @@
+OUTPUT
+
+Enter option:
+[0] merge sort
+[1] binary search
+0
+Enter size of array
+8
+Enter array in unsorted form
+8 6 5 7 4 3 2 1
+Sorted array using Merge Sort:
+1 2 3 4 5 6 7 8 
+
+Enter option:
+[0] merge sort
+[1] binary search
+1
+Enter size of array
+6
+Enter array in unsorted form
+5 6 4 3 2 1
+Sorted array using Merge Sort:
+1 2 3 4 5 6 
+Enter data to search: 3
+Element 3 is present at index 2

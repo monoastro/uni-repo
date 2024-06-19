@@ -1,0 +1,4 @@
+gcc
+%h %c 
+-Iinclude
+-Iinclude/algorithms

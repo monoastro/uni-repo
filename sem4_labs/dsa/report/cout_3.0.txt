@@ -1,0 +1,242 @@
+OUTPUT
+
+1. Insertion at the beginning of the list
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+0
+
+Enter the data to insert at the beginning.
+10
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+0
+
+Enter the data to insert at the beginning.
+20
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+6
+The data in the list is: 
+20 10
+
+2. Insertion at the end of the list
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+1
+
+Enter the data to insert at the end.
+5
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+6
+The data in the list is: 
+20 10 5
+
+3. Insertion at a position in the list
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+2
+Enter the position to insert data [0-n]
+0
+Enter the data to insert at position 0.
+30
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+6
+The data in the list is: 
+30 20 10 5 
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+2
+Enter the position to insert data [0-n]
+2
+Enter the data to insert at position 2.
+15
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+6
+The data in the list is: 
+30 20 15 10 5
+
+4. Deletion from the beginning and end of the list
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+3
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+4
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+6
+The data in the list is: 
+20 15 10 
+
+5. Deletion from a position in the list
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+5
+Enter the position to delete data [0-n]
+1
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+6
+The data in the list is: 
+20 10 
+
+6. Searching for data in the list
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+7
+Enter the data to search
+10
+Data was found at position 1
+
+Display Menu
+(0) to insert at beginning,
+(1) to insert at end,
+(2) to insert at position,
+(3) to delete from the beginning,
+(4) to delete from the end,
+(5) to delete from a position,
+(6) to display the list,
+(7) to search for data in the list
+(8) to exit the program
+7
+Enter the data to search
+999
+Data is not in the list.

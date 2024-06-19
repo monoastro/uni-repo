@@ -1,0 +1,82 @@
+OUTPUT
+Jenish Pant
+
+Gauss Elimination
+1)
+Enter the size of the augumented matrix [A:C]; row, column :
+3 4
+Enter values of the matrix in order
+1 4 -1 -5
+0 -3 -5 -7
+0 0 23 49
+  1.000000   4.000000  -1.000000  -5.000000 
+  0.000000  -3.000000  -5.000000  -7.000000 
+  0.000000   0.000000  23.666667  49.333333 
+
+Solution:
+x[1] = 1.647887
+x[2] = -1.140845
+x[3] = 2.084507
+
+2)
+Enter the size of the augumented matrix [A:C]; row, column :
+3 4
+Enter values of the matrix in order
+1 2 3 4
+5 6 7 8
+9 10 11 12
+  1.000000   2.000000   3.000000   4.000000 
+  0.000000  -4.000000  -8.000000 -12.000000 
+  0.000000   0.000000   0.000000   0.000000 
+
+Infinite solutions exist.
+
+3)
+Enter the size of the augumented matrix [A:C]; row, column :
+3 4
+Enter values of the matrix in order
+1 2 3 6
+2 4 6 12
+3 6 9 16
+
+Gauss elimination cannot proceed. There is a zero pivot at [1, 1].
+
+Gauss Jordan
+1)
+Enter the size of the augmented matrix [A:C]; row, column :
+3 4
+Enter values of the matrix in order
+1 4 -1 -5
+0 -3 -5 -7
+0 0 23 49
+
+Solution:
+x[1] = 1.647887
+x[2] = -1.140845
+x[3] = 2.084507
+
+2)
+Enter the size of the augmented matrix [A:C]; row, column :
+3 4
+Enter values of the matrix in order
+1 2 3 4
+5 6 7 8
+9 10 11 12
+Gauss-Jordan elimination cannot proceed.
+There is a zero pivot at [2, 2].
+
+3)
+Enter the size of the augmented matrix [A:C]; row, column :
+3 4
+Enter values of the matrix in order
+1 2 3 6
+2 4 6 12
+3 6 9 16
+Gauss-Jordan elimination cannot proceed.
+There is a zero pivot at [1, 1].
+
+1)
+The data points are:
+(0.00, 1.00)
+(1.00, 6.00)
+(2.00, 17.00)

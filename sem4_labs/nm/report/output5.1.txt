@@ -1,0 +1,9 @@
+OUTPUT
+Parabolic curve fitting
+
+The data points are:
+(0.00, 1.00)
+(1.00, 6.00)
+(2.00, 17.00)
+
+The fitted parabolic curve is: y = 3.00x^2 + 2.00x + 1.00

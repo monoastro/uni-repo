@@ -1,0 +1,23 @@
+OUTPUT
+
+Enter option:
+[0] bubble sort 
+[1] selection sort
+0
+Enter size of array
+5
+Enter array in unsorted form
+2 3 1 4 5
+Sorted array using Bubble Sort:
+1 2 3 4 5
+
+Enter option:
+[0] bubble sort 
+[1] selection sort
+1
+Enter size of array
+5
+Enter array in unsorted form
+5 7 3 2 1
+Sorted array using Selection Sort:
+1 2 3 5 7 
