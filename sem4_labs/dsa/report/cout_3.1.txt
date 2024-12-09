@@ -1,0 +1,116 @@
+Stack Menu
+(0) to push data,
+(1) to pop data,
+(2) to display the stack,
+(3) to exit the program
+0
+
+Enter the data to push.
+10
+
+Stack Menu
+(0) to push data,
+(1) to pop data,
+(2) to display the stack,
+(3) to exit the program
+0
+
+Enter the data to push.
+20
+
+Stack Menu
+(0) to push data,
+(1) to pop data,
+(2) to display the stack,
+(3) to exit the program
+0
+
+Enter the data to push.
+30
+
+Stack Menu
+(0) to push data,
+(1) to pop data,
+(2) to display the stack,
+(3) to exit the program
+2
+The data in the stack is: 
+30 20 10 
+
+Stack Menu
+(0) to push data,
+(1) to pop data,
+(2) to display the stack,
+(3) to exit the program
+1
+
+Stack Menu
+(0) to push data,
+(1) to pop data,
+(2) to display the stack,
+(3) to exit the program
+2
+The data in the stack is: 
+20 10 
+
+Stack Menu
+(0) to push data,
+(1) to pop data,
+(2) to display the stack,
+(3) to exit the program
+3
+
+Queue Menu
+(0) to enqueue data,
+(1) to dequeue data,
+(2) to display the queue,
+(3) to exit the program
+0 
+
+Enter the data to enqueue.
+10
+
+Queue Menu
+(0) to enqueue data,
+(1) to dequeue data,
+(2) to display the queue,
+(3) to exit the program
+0
+
+Enter the data to enqueue.
+20
+
+Queue Menu
+(0) to enqueue data,
+(1) to dequeue data,
+(2) to display the queue,
+(3) to exit the program
+0
+
+Enter the data to enqueue.
+30
+
+Queue Menu
+(0) to enqueue data,
+(1) to dequeue data,
+(2) to display the queue,
+(3) to exit the program
+2
+The data in the queue is: 
+10 20 30 
+
+Queue Menu
+(0) to enqueue data,
+(1) to dequeue data,
+(2) to display the queue,
+(3) to exit the program
+1
+
+Queue Menu
+(0) to enqueue data,
+(1) to dequeue data,
+(2) to display the queue,
+(3) to exit the program
+2
+The data in the queue is: 
+20 30

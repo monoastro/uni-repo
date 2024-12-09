@@ -1,0 +1,12 @@
+OUTPUT
+Enter the number of data points:
+4
+Enter the data table in the form of x y:
+0 2
+1 3
+2 12
+5 147
+Enter the independent variable value for which the dependent variabl
+e is to be interpolated:
+3
+The dependent value's predicted magnitude is  35.000000.

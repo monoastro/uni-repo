@@ -1,0 +1,94 @@
+OUTPUT:
+
+Display Menu
+(0) to insert data,
+(1) to delete data,
+(2) to display in preorder,
+(3) to display in inorder,
+(4) to display in postorder,
+(5) to exit the program
+0
+
+Enter the data to insert.
+10
+
+Display Menu
+(0) to insert data,
+(1) to delete data,
+(2) to display in preorder,
+(3) to display in inorder,
+(4) to display in postorder,
+(5) to exit the program
+0
+
+Enter the data to insert.
+20
+
+Display Menu
+(0) to insert data,
+(1) to delete data,
+(2) to display in preorder,
+(3) to display in inorder,
+(4) to display in postorder,
+(5) to exit the program
+0
+
+Enter the data to insert.
+30
+
+Display Menu
+(0) to insert data,
+(1) to delete data,
+(2) to display in preorder,
+(3) to display in inorder,
+(4) to display in postorder,
+(5) to exit the program
+2
+The preorder traversal is: 
+10 20 30 
+
+Display Menu
+(0) to insert data,
+(1) to delete data,
+(2) to display in preorder,
+(3) to display in inorder,
+(4) to display in postorder,
+(5) to exit the program
+3
+The inorder traversal is: 
+10 20 30 
+
+Display Menu
+(0) to insert data,
+(1) to delete data,
+(2) to display in preorder,
+(3) to display in inorder,
+(4) to display in postorder,
+(5) to exit the program
+4
+The postorder traversal is: 
+30 20 10 
+
+Display Menu
+(0) to insert data,
+(1) to delete data,
+(2) to display in preorder,
+(3) to display in inorder,
+(4) to display in postorder,
+(5) to exit the program
+1
+
+Enter the data to delete.
+20
+
+Display Menu
+(0) to insert data,
+(1) to delete data,
+(2) to display in preorder,
+(3) to display in inorder,
+(4) to display in postorder,
+(5) to exit the program
+2
+The preorder traversal is: 
+10 30 
+

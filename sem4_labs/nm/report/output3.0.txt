@@ -1,0 +1,27 @@
+OUTPUT
+
+Linear Curve Fitting
+Enter the number of data points:
+7
+Enter the data points in the form x y:
+2468 25000
+4268 3800
+6824 5600
+8246 8400
+2648 6500
+8426 4800
+4628 8300
+
+Data points entered are:
+(2468, 25000)
+(4268, 3800)
+(6824, 5600)
+(8246, 8400)
+(2648, 6500)
+(8426, 4800)
+(4628, 8300)
+
+The values of a and b computed are 16507.960938 and -1.417184.
+Therefore, the required fitted straight line is:
+                 y = 16507.96-1.42x
+

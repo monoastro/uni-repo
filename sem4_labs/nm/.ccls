@@ -1,0 +1,5 @@
+g++
+%h %cpp 
+-std=c++17
+-Iinclude
+-Iinclude/algorithms
