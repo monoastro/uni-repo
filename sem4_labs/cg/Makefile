@@ -1,5 +1,5 @@
-CXX		:= gcc
-CXX_FLAGS 	:= -Wall -Wextra -std=c99 -ggdb
+CXX		:= g++
+CXX_FLAGS 	:= -ggdb
 
 BIN		:= bin
 SRC		:= src
@@ -13,5 +13,5 @@ EXECUTABLE	:= main
 run: $(BIN)/$(EXECUTABLE)
 	./$(BIN)/$(EXECUTABLE)
 
-$(BIN)/$(EXECUTABLE): $(SRC)/*.c
+$(BIN)/$(EXECUTABLE): $(SRC)/*.cpp
 	$(CXX) $(CXX_FLAGS) -I$(INCLUDE) -I$(INCLUDE)/algorithms -L$(LIB) $^ -o $@ $(LIBRARIES)
